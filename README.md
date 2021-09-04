@@ -1,7 +1,7 @@
 # Coffee-Machine
-# The point of this is to show you can code anything eveen without the hardware. 
+# The point of this is to show you can code anything even without the hardware. 
 
-We can determine the machanics that would be working inside a smart IOT coffee machine. 
+#We can determine the machanics that would be working inside a smart IOT coffee machine. 
 
 The coffee machine in this code. 
 
